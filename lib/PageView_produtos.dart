@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
 
-class PageView_dicas extends StatefulWidget {
+class PageView_produtos extends StatefulWidget {
   @override
-  _PageView_dicas createState() => _PageView_dicas();
+  _PageView_produtos createState() => _PageView_produtos();
 }
 
-class _PageView_dicas extends State<PageView_dicas> {
+class _PageView_produtos extends State<PageView_produtos> {
 
   var controller = PageController(
     viewportFraction:  2 / 3 ,

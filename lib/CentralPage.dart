@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:foodrone/classes_definicao/ColetaAgendada.dart';
-import 'package:foodrone/app_usuarios_moradores/display_agendamentos.dart';
 import 'package:foodrone/PageView_produtos.dart';
-import 'package:foodrone/app_usuarios_moradores/AgendarColeta_Pag1.dart';
 
 import 'dart:convert';
 import 'package:flutter/services.dart' show rootBundle;
@@ -132,7 +130,7 @@ Widget build(BuildContext context) {
           ),
 
           SizedBox(height: 10.0),
-          PageView_dicas(),
+          PageView_produtos(),
           SizedBox(height: 20.0),
 
           Container(
@@ -145,10 +143,10 @@ Widget build(BuildContext context) {
               decoration: BoxDecoration(
                 //color: Color(0xffb714365),
                 color: Colors.red,
-                //image: new DecorationImage(
+                image: new DecorationImage(
 
-                  //image: new ExactAssetImage('imagens/bananan.png'),
-                 // scale: 1,),
+                  image: new ExactAssetImage('imagens/saldo.png'),
+                  scale: 1,),
 
                 border: Border.all(
                   color: Colors.black,

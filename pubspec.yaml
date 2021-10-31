@@ -66,6 +66,7 @@ flutter:
     - imagens/
     - imagens/maça.png
     - imagens/bananan.png
+    - imagens/saldo.png
     - assets/Agendamento.json
     - assets/AgendamentosdoDia.json
     - assets/ColetasdoDia.json

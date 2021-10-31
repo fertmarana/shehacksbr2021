@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'tabItem.dart';
-import 'app_usuarios_moradores/bottomNavigation.dart';
+import 'bottomNavigation.dart';
 import 'package:foodrone/CentralPage.dart';
-import 'package:foodrone/app_usuarios_moradores/agenda_morador.dart';
-import 'package:foodrone/app_usuarios_moradores/minhaConta_morador.dart';
+import 'package:foodrone/MeuCarrinho.dart';
+import 'package:foodrone/minhaConta.dart';
 
 class App extends StatefulWidget {
   @override
@@ -27,7 +27,7 @@ class AppState extends State<App> {
       icon: Icons.shopping_basket,
       page: //TestWrite(),
       //writeJsonfile(),
-      agenda_morador(),
+      MeuCarrinho(),
     ),
     TabItem(
       tabName: "CONTA",
