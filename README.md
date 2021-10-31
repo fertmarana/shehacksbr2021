@@ -1,16 +1,19 @@
-# foodrone
+# FOODrone
 
-A new Flutter project.
+Aplicativo mobile criado para SheHacksBR 2021 com o objetivo de conectar pequenos agricultores de comunidades de difícil acesso com Centros de Distribuição de Alimentos de forma a proporcionar uma pequena renda para eles em troca do abastecimento da população com alimentos "In Natura".
 
-## Getting Started
+## Telas
 
-This project is a starting point for a Flutter application.
+A seguir, demonstra-se as telas desenvolvidas para o aplicativo. Elas ainda estão em fase de aprimoramento, mas a função inicial está presente.
 
-A few resources to get you started if this is your first Flutter project:
+![picture](imagens/telainicio.png)
+A primeira tela é a tela de início, onde os produtores podem adicionar produtos que desejam vender e checar o saldo atual obtido por vendas anteriores.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![picture](imagens/telaminhavenda.png)
+A segunda tela é uma lista de todos produtos que o produtor tem para vender
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![picture](imagens/telaminhaconta.png)
+A terceira tela é a conta do produtor onde ele pode checar suas configurações, seu histórico de envios e estatísticas de seus lucros.
+
+
+
