@@ -6,7 +6,7 @@ Aplicativo mobile criado para SheHacksBR 2021 com o objetivo de conectar pequeno
 
 A seguir, demonstra-se as telas desenvolvidas para o aplicativo. Elas ainda estão em fase de aprimoramento, mas a função inicial está presente.
 
-![alt-text-1](imagens/06.png)![alt-text-1](imagens/07.png)
+![picture](imagens/06.png){:height="50%" width="50%"}![picture](imagens/07.png){:height="50%" width="50%"}
 
 A primeira tela é a tela de início, onde os produtores podem adicionar produtos que desejam vender e checar o saldo atual obtido por vendas anteriores.
 
